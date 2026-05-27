@@ -9,3 +9,5 @@ The acceptance rate is much higher among drivers who are frequent visitors of co
 In addition, the acceptance rates are much higher in those whose occupations are Healthcare Pracitioners & Technical or Personal Care & Service among the frequent visitors of coffee houses.
 Otherwise, among the non-frequent visitors of coffee houses, the acceptance rates were much higher in those whose occupations are Building & Grounds Cleaning & Maintenance or Healthcare Support.
 Overall, drivers who frequently visit coffee houses are more likely to accept coffee house coupons, especially when accompanied by partners or friends, with occupation also playing an important role in coupon acceptance behavior.
+
+Link to Jupyter notebook: https://github.com/rubyy0715/week5_assignment/blob/main/prompt.ipynb
